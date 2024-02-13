@@ -1,0 +1,26 @@
+[
+  {
+    "color": "yellow",
+    "type": "zappy",
+    "size": "nano",
+    "name": "Zappy Jr."
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "トトロ"
+  },
+  {
+    "color": "purple",
+    "type": "mod",
+    "size": "nano",
+    "name": "Modulus"
+  },
+  {
+    "color": "yellow",
+    "type": "rubber-duck",
+    "size": "nano",
+    "name": "Nigga"
+  }
+]
